@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\bin\Debug\net8.0\patika_w4_constructor.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\bin\Debug\net8.0\patika_w4_constructor.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\bin\Debug\net8.0\patika_w4_constructor.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\bin\Debug\net8.0\patika_w4_constructor.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\bin\Debug\net8.0\patika_w4_constructor.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\refint\patika_w4_constructor.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\patika_w4_constructor.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_constructor\patika_w4_constructor\obj\Debug\net8.0\ref\patika_w4_constructor.dll
